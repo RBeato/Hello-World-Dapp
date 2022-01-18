@@ -1,4 +1,4 @@
-![](markdown/hello_world_dapp.png)
+![](markdown/hello_world_dapp.PNG)
 
 
 # hello_world_dapp
@@ -34,7 +34,7 @@ But with some important differences:
 
 **3. Directory Structure**
    
-![](markdown/directory_structure.png)
+![](markdown/directory_structure.PNG)
 * **contracts/**: Contains the solidity contract fie.
 * **migrations/**: Contains the migration script files.
 * **test/**: Contains test script files.
@@ -190,13 +190,13 @@ Next, add the file to your assets.
 Get the private key from ganache: 
 
 Click the key.
-![](markdown/ganache.png)
+![](markdown/ganache.PNG)
 
 Copy it
-  ![](markdown/ganache_private_key.png)
+  ![](markdown/ganache_private_key.PNG)
 
 And put it inside .env file. assigning the value to *GANACHE_PRIVATE_KEY*.
-  ![](markdown/dot_env.png)
+  ![](markdown/dot_env.PNG)
 
 
 **Ethereum utils**
