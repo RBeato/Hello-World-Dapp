@@ -176,7 +176,7 @@ We will also add the abi to the **pubspec.yaml** located in the **assets/contrac
      
 In the root directory create a file **.env** . This is where you will put sensible information. Namely the private keys that we will be using.
 
-No avoid sharing your private information when uploading your project to github go to **.gitignore** and anywhere in the file add this line:
+This avoids sharing your private information when uploading your project to github. Go to **.gitignore** and anywhere in the file add this line:
 
     *.env
 
@@ -316,7 +316,6 @@ class EthereumUtils extends StateNotifier<bool> {
 * Add the **images** folder to the **assets** folder and inside place the *hello_image.png*.
 * Add the **google_fonts** folder with the files:
   * DancingScript-VariableFont_wght.ttf
-  * OpenSansCondensed-Light.ttf
 
 * Create a **UI** folder inside **lib/**.
 
